@@ -1,0 +1,5 @@
+{
+  "name": "Pi-casso: Pi Art Generator",
+  "description": "Visualize the digits of Pi as generative art. Create custom color palettes manually or generate them using Gemini AI to discover hidden patterns in the infinite sequence.",
+  "requestFramePermissions": []
+}
